@@ -28,7 +28,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://en.wikipedia.org/wiki/SystemVerilog" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/2379260/193959591-57709d49-4834-471d-a03a-339eb898ab0f.png" alt="Verilog" width="70" height="70"/> </a>  <a href="https://www.verilog.com" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1498729805625188352/cyIH6Vb7_400x400.jpg" alt="Verilog" width="70" height="70"/> </a>
 <a href="https://www.xilinx.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MueuGCVqqTMVlXMvrxS04cyljzFESLxL33NgKKP50Pyh-OuHtWSvfWKis2BA46VPSqc&usqp=CAU" alt="xilinx" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="60" height="60"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="c" width="60" height="60"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="60" height="60"/> </a>
+ </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chsachinkumar&show_icons=true&locale=en&layout=compact" alt="chsachinkumar" /></p>
 
