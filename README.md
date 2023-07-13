@@ -3,7 +3,7 @@
 <h3 align="center">A passionate ASIC_VLSI and web developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://video-public.canva.com/VAEOZA-JS78/v/cd47229be2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chsachinkumar&label=Profile%20views&color=0e75b6&style=flat" alt="chsachinkumar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chsachinkumar&label=Profile%20views&color=0e75b6&style=flat" alt="chsachinkumar" /> </p>
 
 - 🔭 I’m currently working on **ASIC_VLSI**
 - 🌱 I’m currently learning **C/JAVA/Python**
