@@ -15,7 +15,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chsachinkumar2003@gmail.com)](mailto:chsachinkumar2003@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chaudhary-sachin-kumar-36ab61201/)](https://www.linkedin.com/in/chaudhary-sachin-kumar-36ab61201/)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chsachinkumar" alt="chsachinkumar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chsachinkumar&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15" alt="chsachinkumar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chsachinku2003" target="blank"><img src="https://img.shields.io/twitter/follow/chsachinku2003?logo=twitter&style=for-the-badge" alt="chsachinku2003" /></a> </p>
 
