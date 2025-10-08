@@ -1,12 +1,11 @@
 [![MasterHead](https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=1380&t=st=1671364024~exp=1671364624~hmac=03c6afe7f2c73c2ba980177517ed4611408de840a61f0030d6d346ea4bb817d0)](https://github.com/chsachinkumar)
 <h1 align="center">Hi 👋, I'm Chaudhary Sachin Kumar</h1>
-<h3 align="center">A passionate ASIC_VLSI and web developer from India</h3>
+<h3 align="center">A passionate ASIC_VLSI Enthusiast from India</h3>
 <img align="right" alt="Coding" width="350" src="https://video-public.canva.com/VAEOZA-JS78/v/cd47229be2.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chsachinkumar&label=Profile%20views&color=0e75b6&style=flat" alt="chsachinkumar" /> </p>
 
 - 🔭 I’m currently working on **ASIC_VLSI**
-- 🌱 I’m currently learning **C/JAVA/Python**
 - 👯 I’m looking to collaborate on **ASIC_VLSI_Projects**
 - 💬 Ask me about **ASIC_VLSI**
 
